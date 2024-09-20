@@ -1,4 +1,4 @@
-# 🌟 KS-Archive: A Comprehensive Showcase of Achievements
+# 🌟 KS-Archive: A Comprehensive Showcase
 
 ![Banner](https://raw.githubusercontent.com/anonyks/KS-Archive/refs/heads/main/up-header.png) <!-- Use a custom banner representing your achievements -->
 
