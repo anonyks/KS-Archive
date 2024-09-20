@@ -9,7 +9,7 @@ Welcome to the KS-Archive, a curated collection of my accolades and recognitions
 - [Certificates of Achievement](#-certificates-of-achievement)
 - [Certificates of Appreciation](#-certificates-of-appreciation)
 - [Certificates of Recognition](#-certificates-of-recognition)
-- [Hall of Fame Inductions](#-hall-of-fame)
+- [Hall of Fame Inductions](#%EF%B8%8F-hall-of-fame)
 - [Swag](#-Swag)
 - [Miscellaneous](#-miscellaneous)
 - [Contact](#-connect-with-me)
