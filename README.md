@@ -97,7 +97,7 @@ Welcome to the KS-Archive, a curated collection of my accolades and recognitions
 
 Feel free to connect for collaborations or inquiries:
 
-- **Telegram**: [@AnonyKs_xD](https://t.me/@AnonyKs_xD)
+- **Telegram**: [@AnonyKs_xD](https://t.me/AnonyKs_xD)
 - **Twitter**: [@AnonyKs_xD](https://twitter.com/@AnonyKs_xD)
 
 ---
