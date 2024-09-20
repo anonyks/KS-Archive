@@ -44,6 +44,7 @@ Welcome to the KS-Archive, a curated collection of my accolades and recognitions
 
 <details open>
 <summary>Click to view certificates of recognition</summary>
+  
 - **Security Champion**: University of Nebraska, September 2024
 - **Thank You Letter**: Harvard University, received on 2021-06-30
 - **US Department of Education x2**: Received in August and September 2024
