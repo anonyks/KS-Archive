@@ -12,7 +12,7 @@ Welcome to the KS-Archive, a curated collection of my accolades and recognitions
 - [Hall of Fame Inductions](#-hall-of-fame-inductions)
 - [Swag](#-Swag)
 - [Miscellaneous](#-miscellaneous)
-- [Contact](#-contact)
+- [Contact](#-connect-with-me)
 
 ## 🏅 Certificates of Achievement
 
