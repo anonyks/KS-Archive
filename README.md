@@ -1,10 +1,8 @@
 # 🌟 KS-Archive: A Comprehensive Showcase
 
-![Banner](https://raw.githubusercontent.com/anonyks/KS-Archive/refs/heads/main/up-header.png) <!-- Use a custom banner representing your achievements -->
+![Banner](https://raw.githubusercontent.com/anonyks/KS-Archive/refs/heads/main/up-header.png)
 
 Welcome to the KS-Archive, a curated collection of my accolades and recognitions spanning various educational, professional, and extracurricular activities. This repository is not only a reflection of my journey but also serves as a testament to my dedication and pursuit of excellence.
-
-UPDATE: This is to be Updated:)
 
 ## 🚀 Quick Links
 
@@ -12,7 +10,7 @@ UPDATE: This is to be Updated:)
 - [Certificates of Appreciation](#-certificates-of-appreciation)
 - [Certificates of Recognition](#-certificates-of-recognition)
 - [Hall of Fame Inductions](#%EF%B8%8F-hall-of-fame)
-- [Swag](#-Swag)
+- [Swag](#-swag)
 - [Miscellaneous](#-miscellaneous)
 - [Contact](#-connect-with-me)
 
